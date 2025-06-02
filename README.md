@@ -83,7 +83,7 @@ int main() {
 }
 ```
 ## Output:
-![Message authentication code mac](https://github.com/user-attachments/assets/a980eb36-6d54-42c5-af6e-039303ff862d)
+![Message authentication code mac](https://github.com/user-attachments/assets/a7cdb11f-b147-4e44-b1c9-5208a92b5e47)
 
 ## Result:
 The program is executed successfully.
